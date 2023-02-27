@@ -8,12 +8,12 @@ Authenticate with a backend server(Send ID_Token to the backend): https://develo
 
 Create Crendentials: https://console.cloud.google.com/apis/credentials
 
+[new] Sign in with Google for web: https://developers.google.com/identity/gsi/web/guides/overview
 
 ### Relevant Concept
 Authentication: To identify who a user is
 
-Authorization: To get permission to access APIs
-
+Authorization: To get permission to access APIs on behalf of the user
 
 ### License
 MIT
