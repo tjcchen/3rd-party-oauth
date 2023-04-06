@@ -12,6 +12,7 @@ Create Crendentials: https://console.cloud.google.com/apis/credentials
 
 Sign in with Google for web( new ): https://developers.google.com/identity/gsi/web/guides/overview
 
+Migrating from old to Google Sign-in: https://developers.google.com/identity/gsi/web/guides/migration
 
 
 2、Facebook OAuth
