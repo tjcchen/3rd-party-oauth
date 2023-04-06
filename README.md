@@ -17,8 +17,6 @@ Sign in with Google for web( new ): https://developers.google.com/identity/gsi/w
 2、Facebook OAuth
 
 
-
-
 ## Relevant Concepts
 Authentication: To identify who a user is
 
