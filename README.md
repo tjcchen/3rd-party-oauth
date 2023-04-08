@@ -1,5 +1,5 @@
 ## 3rd-party-oauth
-A project for recording 3rd party OAuth associated information, with providers such as Google, Facebook.
+A project for recording 3rd party OAuth associated information, with providers such as Google, Discord, Slack, Zoom, Twitter, Facebook.
 
 ## Relevant Links
 1、Google OAuth
