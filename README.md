@@ -31,6 +31,9 @@ Twitter OAuth 2.0: https://developer.twitter.com/en/docs/authentication/oauth-2-
 6、Facebook OAuth
 Manually Build a Login Flow: https://developers.facebook.com/docs/facebook-login/guides/advanced/manual-flow/
 
+7、Github OAuth
+Create ClientID and secrect: https://github.com/settings/applications/new
+
 ## Relevant Concepts
 Authentication: To identify who a user is
 
