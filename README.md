@@ -34,6 +34,8 @@ Manually Build a Login Flow: https://developers.facebook.com/docs/facebook-login
 7、Github OAuth
 Create ClientID and secrect: https://github.com/settings/applications/new
 
+Check secrect ID: https://github.com/settings/developers
+
 ## Relevant Concepts
 Authentication: To identify who a user is
 
