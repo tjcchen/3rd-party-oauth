@@ -19,6 +19,8 @@ Discord OAuth 2.0: https://discord.com/developers/docs/topics/oauth2
 
 Configuration: https://discord.com/developers/applications/1096799501005639872/oauth2/general
 
+How to config: https://github.com/nextauthjs/next-auth/discussions/948
+
 3、Slack OAuth
 Slack OAuth 2.0: https://api.slack.com/legacy/oauth
 
