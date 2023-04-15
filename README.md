@@ -14,31 +14,46 @@ Sign in with Google for web( new ): https://developers.google.com/identity/gsi/w
 
 Migrating from old to Google Sign-in: https://developers.google.com/identity/gsi/web/guides/migration
 
+
+
 2、Discord OAuth
+
 Discord OAuth 2.0: https://discord.com/developers/docs/topics/oauth2
 
 Configuration: https://discord.com/developers/applications/1096799501005639872/oauth2/general
 
 How to config: https://github.com/nextauthjs/next-auth/discussions/948
 
+
+
 3、Slack OAuth
 Slack OAuth 2.0: https://api.slack.com/legacy/oauth
+
+
 
 4、Zoom OAuth
 Zoom OAuth 2.0: https://developers.zoom.us/docs/zoom-rooms/oauth/
 
 OAuth Guide: https://devforum.zoom.us/t/guide-making-a-zoom-api-call-with-oauth-credentials-in-postman/64538
 
+
+
 5、Twitter OAuth
 Twitter OAuth 2.0: https://developer.twitter.com/en/docs/authentication/oauth-2-0
 
+
+
 6、Facebook OAuth
 Manually Build a Login Flow: https://developers.facebook.com/docs/facebook-login/guides/advanced/manual-flow/
+
+
 
 7、Github OAuth
 Create ClientID and secrect: https://github.com/settings/applications/new
 
 Check secrect ID: https://github.com/settings/developers
+
+
 
 ## Relevant Concepts
 Authentication: To identify who a user is
