@@ -1,7 +1,9 @@
 ## 3rd-party-oauth
+
 A project for recording 3rd party OAuth associated information, with providers such as Google, Discord, Slack, Zoom, Twitter, Facebook.
 
 ## Relevant Links
+
 1、Google OAuth
 
 Integrate Google signin into your webapp(Front-End): https://developers.google.com/identity/sign-in/web/sign-in
@@ -27,11 +29,13 @@ How to config: https://github.com/nextauthjs/next-auth/discussions/948
 
 
 3、Slack OAuth
+
 Slack OAuth 2.0: https://api.slack.com/legacy/oauth
 
 
 
 4、Zoom OAuth
+
 Zoom OAuth 2.0: https://developers.zoom.us/docs/zoom-rooms/oauth/
 
 OAuth Guide: https://devforum.zoom.us/t/guide-making-a-zoom-api-call-with-oauth-credentials-in-postman/64538
@@ -39,16 +43,19 @@ OAuth Guide: https://devforum.zoom.us/t/guide-making-a-zoom-api-call-with-oauth-
 
 
 5、Twitter OAuth
+
 Twitter OAuth 2.0: https://developer.twitter.com/en/docs/authentication/oauth-2-0
 
 
 
 6、Facebook OAuth
+
 Manually Build a Login Flow: https://developers.facebook.com/docs/facebook-login/guides/advanced/manual-flow/
 
 
 
 7、Github OAuth
+
 Create ClientID and secrect: https://github.com/settings/applications/new
 
 Check secrect ID: https://github.com/settings/developers
@@ -56,9 +63,11 @@ Check secrect ID: https://github.com/settings/developers
 
 
 ## Relevant Concepts
+
 Authentication: To identify who a user is
 
 Authorization: To get permission to access APIs on behalf of the user
 
 ## License
+
 MIT
