@@ -32,6 +32,10 @@ How to config: https://github.com/nextauthjs/next-auth/discussions/948
 
 Slack OAuth 2.0: https://api.slack.com/legacy/oauth
 
+Create Credentials: https://api.slack.com/apps
+
+Permission Scope: https://api.slack.com/scopes
+
 
 
 4、Zoom OAuth
