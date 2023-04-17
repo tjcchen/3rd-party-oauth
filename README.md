@@ -36,6 +36,7 @@ Create Credentials: https://api.slack.com/apps
 
 Permission Scope: https://api.slack.com/scopes
 
+Create a slack workspace: https://slack.com/help/articles/206845317-Create-a-Slack-workspace
 
 
 4、Zoom OAuth
