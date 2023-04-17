@@ -38,6 +38,9 @@ Permission Scope: https://api.slack.com/scopes
 
 Create a slack workspace: https://slack.com/help/articles/206845317-Create-a-Slack-workspace
 
+Set up Https website with ngrok( Slack callback url must be https ): https://ngrok.com/
+
+
 
 4、Zoom OAuth
 
